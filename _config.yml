@@ -1,9 +1,9 @@
 # site settings
 title: Jonas Vestergaard Jensen
 subtitle: Personal website
-email: jonas_vez@hotmail.com
+email: xxx@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: jonasvj.github.io # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
