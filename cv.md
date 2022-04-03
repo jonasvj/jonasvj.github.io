@@ -2,6 +2,7 @@
 layout: cv
 title: Curriculum vitae
 image: assets/images/profile.JPG
+width: 2448
 nav-menu: true
 published: true
 ---
