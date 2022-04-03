@@ -7,9 +7,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Jonas Vestergaard Jensen
 street_address: Jægersborggade 29
-city: København N
-state: 
-zip_code: 2200
+city: 2200 København N
+state:
+zip_code:
 country: Denmark
 phone: +45 60132195
 

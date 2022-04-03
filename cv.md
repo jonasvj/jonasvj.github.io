@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: Curriculum vitae
-image: assets/images/pic01.jpg
+image: assets/images/profile.JPG
 nav-menu: true
 published: true
 ---
@@ -21,7 +21,7 @@ M.Sc. student in Mathematical Modelling and Computation at the Technical Univers
 
 ### Specialized in
 
-Machine learning, Data science and statistics. 
+Machine learning, data science, statistics. 
 
 
 ### About me
@@ -41,49 +41,52 @@ __M.Sc., Mathematical Modelling and Computation, Technical University of Denmark
 
 ## Experience
 `2015 – 2018`
-*Waiter*, Louisiana Museum of Modern Art, Humlebæk.__
+*Waiter*, Louisiana Museum of Modern Art, Humlebæk.
 
 `2018 – 2019`
 __Teaching assistant__, DTU Compute, Kongens Lyngby.
-- Teaching assistant in the courses Calculus and algebra 1 and Calculus and algebra 2. Tasks included:
-* Assisting students with solving weekly exercises and final course projects
-* Correcting weekly homework assignments and final course projects
+Teaching assistant in the courses Calculus and algebra 1 and Calculus and algebra 2.<br>
+Tasks included:
+- Assisting students with solving weekly exercises and final course projects.
+- Correcting weekly homework assignments and final course projects.
 
 `2020 - 2021`
 __Student assistant, iCOPE__, Kongens Lyngby & Copenhagen.
-- Student assistant at the <i>interregional Childhood Oncology Precision medicine Exploration</i> project. Tasks included:
-* Development of software supporting clinical research
-* Data preparation and management
-* Running and maintenance of a Next-Generation Sequencing (NGS) pipeline
+Student assistant at the *interregional Childhood Oncology Precision medicine Exploration* project.<br>
+Tasks included:
+- Development of software supporting clinical research.
+- Data preparation and management.
+- Running and maintenance of a Next-Generation Sequencing (NGS) pipeline.
 
 `2022 - now`
 __Student assistant, DTU Compute, Kongens Lyngby.__
-- Student assistant in a natural language proecessing (NLP) project. Tasks include:
-* Development and implementation of classic statistical langauage models.
-* Development and implementation of deep learning based language models.
+Student assistant in a natural language processing (NLP) research project.<br>
+Tasks:
+- Development and implementation of classical statistical langauage models.
+- Development and implementation of deep learning based language models.
 
 ## Languages
 
 ### Danish
 
-Mother tongue
+Mother tongue.
 
 ### English
-Proficient both written and spoken
+Proficient both written and spoken.
 
 ### Swedish
-Proficient both written and spoken
+Proficient both written and spoken.
 
 ## Computer skills
 
 ### Programming languages
-Python, R, MatLab, bash
+Python, R, MatLab, bash.
 
 ### Machine learning
-PyTorch, scikit-learn, Pyro, Weights & Biases, PySpark
+PyTorch, scikit-learn, Pyro, Weights & Biases, PySpark.
 
 ### Miscellaneous
-Microsoft Office, \latex, Maple, PyMOL, SAS
+Microsoft Office, Latex, Maple, PyMOL, SAS.
 
 <!-- ### Footer
 
