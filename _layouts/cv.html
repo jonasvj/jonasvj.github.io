@@ -1,4 +1,4 @@
-
+<!---
 <!doctype html>
 <html>
 <head>
@@ -14,4 +14,30 @@
     </div>
   </div>
 </body>
+</html>
+--->
+<!DOCTYPE html>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+<head>
+  <title> {% if page.title %} {{ page.title }} | {% endif %} CV</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+  <link rel="stylesheet" href="{{ "assets/css/main.css" | relative_url }}" />
+  <link href="assets/media/{{ site.style }}-screen.css" type="text/css" rel="stylesheet" media="screen">
+  <link href="assets/media/{{ site.style }}-print.css" type="text/css" rel="stylesheet" media="print">
+</head>
+
+<body>
+    <script type="text/javascript">document.body.classList.add("is-loading");</script>
+
+    {% include header.html %} {{ content }} {% include footer.html %}
+
+</body>
+
 </html>
