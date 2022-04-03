@@ -9,7 +9,7 @@ published: true
 Machine learning enthusiast.
 
 <div id="webaddress">
-<a href="jvestergaardjensen@gmail.com">jvestergaardjensen@gmail.com</a>
+<a href="mailto:jvestergaardjensen@gmail.com">jvestergaardjensen@gmail.com</a>
 | <a href="https://www.linkedin.com/in/jonas-vestergaard-j-b8b5b3156/">LinkedIn</a>
 | <a href="https://github.com/jonasvj">GitHub</a>
 </div>
@@ -26,32 +26,32 @@ Machine learning, data science, statistics.
 
 ### About me
 
-I am currently studying on the third semester for my M.Sc. degree in Mathematical Modelling and Computation at DTU. During my studies I have mostly specialised myself in Machine learning and Data science. I am especially interested in the use of Bayesian methods in Machine learning. As a result of my background in Human Life Science Engineering, I also find the application of Machine learning within the Life sciences interesting.
+I am currently studying on the third semester for my M.Sc. degree in Mathematical Modelling and Computation at DTU. During my studies I have mostly specialised myself in machine learning and data science. I am especially interested in the use of Bayesian methods in machine learning. As a result of my background in Human Life Science Engineering, I also find the application of machine learning within the life sciences interesting.
 
 
 ## Education
 
 `2017 - 2020`
-__B.Sc., Human Life Science Engineering, Technical University of Denmark.__
-- Thesis: Polygenic risk scores and machine learning approaches in childhood acute lymphoblastic leukemia
+B.Sc., __Human Life Science Engineering__, Technical University of Denmark.<br>
+Thesis: Polygenic risk scores and machine learning approaches in childhood acute lymphoblastic leukemia
 
 `2021 - now`
-__M.Sc., Mathematical Modelling and Computation, Technical University of Denmark.__
+M.Sc., __Mathematical Modelling and Computation__, Technical University of Denmark.
 
 
 ## Experience
 `2015 – 2018`
-*Waiter*, Louisiana Museum of Modern Art, Humlebæk.
+__Waiter__, Louisiana Museum of Modern Art, Humlebæk.
 
 `2018 – 2019`
-__Teaching assistant__, DTU Compute, Kongens Lyngby.
+__Teaching assistant__, DTU Compute, Kongens Lyngby.<br>
 Teaching assistant in the courses Calculus and algebra 1 and Calculus and algebra 2.<br>
 Tasks included:
 - Assisting students with solving weekly exercises and final course projects.
 - Correcting weekly homework assignments and final course projects.
 
 `2020 - 2021`
-__Student assistant, iCOPE__, Kongens Lyngby & Copenhagen.
+__Student assistant__, iCOPE, Kongens Lyngby & Copenhagen.<br>
 Student assistant at the *interregional Childhood Oncology Precision medicine Exploration* project.<br>
 Tasks included:
 - Development of software supporting clinical research.
@@ -59,7 +59,7 @@ Tasks included:
 - Running and maintenance of a Next-Generation Sequencing (NGS) pipeline.
 
 `2022 - now`
-__Student assistant, DTU Compute, Kongens Lyngby.__
+__Student assistant__, DTU Compute, Kongens Lyngby.<br>
 Student assistant in a natural language processing (NLP) research project.<br>
 Tasks:
 - Development and implementation of classical statistical langauage models.
