@@ -37,6 +37,9 @@ markdown: kramdown
 sass:
   style: compressed
 
+# For cv
+style: kjhealy
+
 exclude:
 - "*.gemspec"
 - LICENSE.md
