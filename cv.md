@@ -61,10 +61,7 @@ Tasks included:
 
 `2022 - now`
 __Student assistant__, DTU Compute, Kongens Lyngby.<br>
-Student assistant in a natural language processing (NLP) research project.<br>
-Tasks:
-- Development and implementation of classical statistical langauage models.
-- Development and implementation of deep learning based language models.
+Student assistant in a natural language processing (NLP) research project.
 
 ## Languages
 

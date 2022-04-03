@@ -14,6 +14,7 @@ nav-menu: true
 		    <header class="major">
 			    <h1>Educational profile</h1>
 		    </header>
+            This page provides an overview of the courses that I have taken at the Technical University of Denmark during my bachelor and master studies.
             <!-- Content -->
             <h2 id="courses">Courses</h2>
             <h3 id="mmc">M.Sc. in Mathematical Modelling and Computation (DTU)</h3>
