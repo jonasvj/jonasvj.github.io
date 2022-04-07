@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: landing
-description: 'This is a description of my projects'
+description: 'A small collection of my projects.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -10,6 +10,7 @@ nav-menu: true
 <div id="main">
 
 <!-- One -->
+<!--
 <section id="one">
 	<div class="inner">
 		<header class="major">
@@ -18,19 +19,20 @@ nav-menu: true
 		<p>Second description of project page</p>
 	</div>
 </section>
+-->
 
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+		<a href="project_1.html" class="image">
+			<img src="{% link assets/images/density_plot.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Project 1</h3>
+					<h3>Tensor Factorized Density Estimation</h3>
 				</header>
-				<p>Short description of project 1</p>
+				<p>Course project for 02460 Advanced machine learning at DTU.</p>
 				<ul class="actions">
 					<li><a href="project_1.html" class="button">Learn more</a></li>
 				</ul>
@@ -38,21 +40,22 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+		<a href="project_2.html" class="image">
+			<img src="{% link assets/images/Embedding.PNG %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Project 2</h3>
+					<h3>Generative Modelling of Insulin Proteins</h3>
 				</header>
-				<p>Short description of project 2</p>
+				<p>Course project for 02456 Deep learning at DTU.</p>
 				<ul class="actions">
 					<li><a href="project_2.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
+<!--
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
@@ -69,10 +72,13 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+-->
 </section>
 
 <!-- Three -->
+
 <section id="three">
+	<!--
 	<div class="inner">
 		<header class="major">
 			<h2>Final project</h2>
@@ -81,7 +87,9 @@ nav-menu: true
 		<ul class="actions">
 			<li><a href="project_1.html" class="button next">Get Started</a></li>
 		</ul>
+		
 	</div>
+	-->
 </section>
 
 </div>

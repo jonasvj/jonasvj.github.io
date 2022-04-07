@@ -13,6 +13,7 @@ Machine learning enthusiast.
 <a href="mailto:jvestergaardjensen@gmail.com">jvestergaardjensen@gmail.com</a>
 | <a href="https://www.linkedin.com/in/jonas-vestergaard-j-b8b5b3156/">LinkedIn</a>
 | <a href="https://github.com/jonasvj">GitHub</a>
+| <a href="https://jonasvj.github.io">Personal website</a>
 </div>
 
 
@@ -34,7 +35,8 @@ I am currently studying on the third semester for my M.Sc. degree in Mathematica
 
 `2017 - 2020`
 B.Sc., __Human Life Science Engineering__, Technical University of Denmark.<br>
-Thesis: Polygenic risk scores and machine learning approaches in childhood acute lymphoblastic leukemia
+Thesis: Polygenic risk scores and machine learning approaches in childhood acute lymphoblastic leukemia<br>
+GPA: 11.3/12
 
 `2021 - now`
 M.Sc., __Mathematical Modelling and Computation__, Technical University of Denmark.
@@ -63,6 +65,17 @@ Tasks included:
 __Student assistant__, DTU Compute, Kongens Lyngby.<br>
 Student assistant in a natural language processing (NLP) research project.
 
+## Computer skills
+
+### Programming languages
+Python, R, MatLab, bash.
+
+### Machine learning
+PyTorch, scikit-learn, Pyro, Weights & Biases, PySpark.
+
+### Miscellaneous
+Microsoft Office, Latex, Maple, PyMOL, SAS.
+
 ## Languages
 
 ### Danish
@@ -74,17 +87,6 @@ Proficient both written and spoken.
 
 ### Swedish
 Proficient both written and spoken.
-
-## Computer skills
-
-### Programming languages
-Python, R, MatLab, bash.
-
-### Machine learning
-PyTorch, scikit-learn, Pyro, Weights & Biases, PySpark.
-
-### Miscellaneous
-Microsoft Office, Latex, Maple, PyMOL, SAS.
 
 <!-- ### Footer
 

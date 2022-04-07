@@ -41,7 +41,7 @@ nav-menu: true
                                     <td>Machine learning for signal processing</td>
                                 </tr>
                                 <tr>
-                                    <td>02476</td>
+                                    <td>Special course</td>
                                     <td>Machine learning operations</td>
                                 </tr>
                                 <tr>
@@ -117,7 +117,7 @@ nav-menu: true
                         </div>
                     </div>
                 <div class="6u$ 12u$(small)">
-                    <h4>Miscellanous</h4>
+                    <h4>Miscellaneous</h4>
                     <div class="table-wrapper">
                         <table>
                             <tbody>
@@ -126,7 +126,7 @@ nav-menu: true
                                     <td>X-Tech entrepreneurship</td>
                                 </tr>
                                 <tr>
-                                    <td>42634</td>
+                                    <td>27430</td>
                                     <td>Eukaryotic cell biology</td>
                                 </tr>
                                 <tr>
@@ -139,7 +139,8 @@ nav-menu: true
                 </div>
             </div>
             <h3 id="tbm">B.Sc. in Human Life Science Engineering (DTU)</h3>
-            Thesis: Polygenic risk scores and machine learning approaches in childhood acute lymphoblastic leukemia<br><br>
+            Thesis: Polygenic risk scores and machine learning approaches in childhood acute lymphoblastic leukemia<br>
+            GPA: 11.3/12<br><br>
             <div class="row">
                 <div class="6u 12u$(small)">
                     <h4>Machine learning & statistics</h4>
@@ -279,7 +280,7 @@ nav-menu: true
                     </div>
                 </div>
                 <div class="6u$ 12u$(small)">
-                    <h4>Miscellanous</h4>
+                    <h4>Miscellaneous</h4>
                     <div class="table-wrapper">
                         <table>
                             <tbody>
@@ -305,7 +306,7 @@ nav-menu: true
                 </div>
             </div>
             <h2 id="courses">Grades</h2>
-            Here are my grades in a nice interactive Bokeh plot.
+            This section will soon display my grades in a nice interactive Bokeh plot.
         </div>
     </section>
 </div>
