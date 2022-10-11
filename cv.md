@@ -10,36 +10,41 @@ published: true
 Machine learning enthusiast.
 
 <div id="webaddress">
+<!---
 <a href="mailto:jvestergaardjensen@gmail.com">jvestergaardjensen@gmail.com</a>
 | <a href="https://www.linkedin.com/in/jonas-vestergaard-j-b8b5b3156/">LinkedIn</a>
 | <a href="https://github.com/jonasvj">GitHub</a>
 | <a href="https://jonasvj.github.io">Personal website</a>
+-->
+<a href="mailto:s162615@student.dtu.dk">s162615@student.dtu.dk</a>
 </div>
-
 
 ## Currently
 
-M.Sc. student in Mathematical Modelling and Computation at the Technical University of Denmark (DTU).
+M.Sc.Eng. student in Mathematical Modelling and Computation at the Technical University of Denmark (DTU).
 
-### Specialized in
+### Interested in
 
-Machine learning, data science, statistics. 
-
+Machine learning, Bayesian inference, data science, statistics. 
 
 ### About me
 
-I am currently studying on the third semester for my M.Sc. degree in Mathematical Modelling and Computation at DTU. During my studies I have mostly specialised myself in machine learning and data science. I am especially interested in the use of Bayesian methods in machine learning. As a result of my background in Human Life Science Engineering, I also find the application of machine learning within the life sciences interesting.
-
+I am currently writing my master's thesis on approximate inference for active learning with Bayesian neural networks. During my studies I have mostly specialised in machine learning and data science. I am especially interested in the use of Bayesian methods in machine learning. As a result of my background in Human Life Science Engineering, I also find the application of machine learning within the life sciences interesting.
 
 ## Education
 
+`2011 - 2014`
+Upper secondary school, __Social science programme__, Vännäs Gymnasium, Sweden.<br>
+GPA: 18.4/20
+
 `2017 - 2020`
-B.Sc., __Human Life Science Engineering__, Technical University of Denmark.<br>
-Thesis: Polygenic risk scores and machine learning approaches in childhood acute lymphoblastic leukemia<br>
-GPA: 11.3/12
+B.Sc.Eng., __Human Life Science Engineering__, Technical University of Denmark.<br>
+GPA: 11.3/12<br>
+Thesis: Polygenic risk scores and machine learning approaches in childhood acute lymphoblastic leukemia
 
 `2021 - now`
-M.Sc., __Mathematical Modelling and Computation__, Technical University of Denmark.
+M.Sc.Eng., __Mathematical Modelling and Computation__, Technical University of Denmark.<br>
+GPA: 11.1/12
 
 
 ## Experience
@@ -55,15 +60,21 @@ Tasks included:
 
 `2020 - 2021`
 __Student assistant__, iCOPE, Kongens Lyngby & Copenhagen.<br>
-Student assistant at the *interregional Childhood Oncology Precision medicine Exploration* project.<br>
+Student assistant at the *interregional Childhood Oncology Precision medicine Exploration* research project.<br>
 Tasks included:
 - Development of software supporting clinical research.
 - Data preparation and management.
 - Running and maintenance of a Next-Generation Sequencing (NGS) pipeline.
 
-`2022 - now`
+`2022 - 2022`
 __Student assistant__, DTU Compute, Kongens Lyngby.<br>
-Student assistant in a natural language processing (NLP) research project.
+Student assistant in a natural language processing (NLP) research project.<br>
+Tasks included:
+<ul>
+    <li>Data cleaning and preparation.</li>
+    <li>Implementation and testing of classic statistical language models and deep learning based language models.</li>
+    <li>Coding of demos.</li>
+</ul>
 
 ## Computer skills
 
@@ -76,7 +87,9 @@ PyTorch, scikit-learn, Pyro, Weights & Biases, PySpark.
 ### Miscellaneous
 Microsoft Office, Latex, Maple, PyMOL, SAS.
 
-## Languages
+## Languages 
+
+Danish, English, Swedish.
 
 ### Danish
 
