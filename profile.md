@@ -14,10 +14,12 @@ nav-menu: true
 		    <header class="major">
 			    <h1>Educational profile</h1>
 		    </header>
-            This page provides an overview of the courses that I have taken at the Technical University of Denmark during my bachelor and master studies.
+            This page provides an overview of the courses that I have taken at the Technical University of Denmark during my bachelor and master studies.<br><br>
             <!-- Content -->
-            <h2 id="courses">Courses</h2>
+            <!-- <h2 id="courses">Courses</h2> -->
             <h3 id="mmc">M.Sc. in Mathematical Modelling and Computation (DTU)</h3>
+            Thesis: Approximate inference for active learning with Bayesian neural networks<br>
+            GPA: 11.1/12<br><br>
             <div class="row">
                 <div class="6u 12u$(small)">
                     <h4>Machine learning</h4>

@@ -2,6 +2,7 @@
 title: Projects
 layout: landing
 description: 'A small collection of my projects.'
+extra_description: 'This page is not up to date at the moment.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
