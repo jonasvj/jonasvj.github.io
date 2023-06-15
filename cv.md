@@ -23,7 +23,7 @@ Research assistant at the Section for Cognitive Systems, DTU Compute.
 
 ### Interested in
 
-Machine learning, Bayesian inference, data science, statistics. 
+Machine learning, Bayesian inference, data science, statistics, life science. 
 
 ### About me
 <!---
@@ -103,7 +103,7 @@ Python, R, MatLab, bash.
 PyTorch, scikit-learn, Pyro, Weights & Biases, PySpark.
 
 ### Miscellaneous
-Microsoft Office, Latex, Maple, PyMOL, SAS.<br>Extensive experience with High-Performance Computing clusters.
+Microsoft Office, Latex, Maple, PyMOL, SAS.<br>Extensive experience with High-Performance Computing clusters (Computerome and DTU's central HPC cluster).
 
 ## Publications
 
