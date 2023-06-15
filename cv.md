@@ -14,8 +14,9 @@ Machine learning engineer.
 <a href="mailto:jvestergaardjensen@gmail.com">jvestergaardjensen@gmail.com</a>
 | <a href="https://www.linkedin.com/in/jonas-vestergaard-j-b8b5b3156/">LinkedIn</a>
 | <a href="https://github.com/jonasvj">GitHub</a>
-| <a href="https://jonasvj.github.io">Personal website</a>
 </div>
+<!--| <a href="https://jonasvj.github.io">Personal website</a>
+</div>-->
 
 ## Currently
 
