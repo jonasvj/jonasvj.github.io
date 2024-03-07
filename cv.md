@@ -7,7 +7,7 @@ nav-menu: true
 published: true
 ---
 # Jonas Vestergaard Jensen
-Machine learning engineer.
+PhD student in probabilistic deep learning at the Technical University of Denmark.
 
 <div id="webaddress">
 <a href="mailto:jvestergaardjensen@gmail.com">jvestergaardjensen@gmail.com</a>
@@ -17,18 +17,20 @@ Machine learning engineer.
 </div>
 
 ## Currently
-Research assistant at the Section for Cognitive Systems, DTU Compute.
+PhD student at the Section for Cognitive Systems, DTU Compute.
 
 ### Interested in
-Machine learning, Bayesian inference, data science, MLOps.
+Deep learning, probabilistic modelling, Bayesian inference, AI4Science.
 
 ### About me
 <!---
 I completed my M.Sc.Eng. degree in Mathematical Modelling and Computing at DTU in February. My master's thesis was on approximate inference for active learning with Bayesian neural networks. During my studies, I have primarily specialized in machine learning and data science. I am particularly interested in the use of Bayesian methods in machine learning. As a result of my background in Human Life Science Engineering, I also find the application of machine learning within the life sciences interesting. In April, I will begin a project employment as a research assistant at the Section for Cognitive Systems, DTU Compute. Until then, I am working as a machine learning engineer at WriteReader ApS.
 
 I am a recently graduated machine learning engineer from the Technical University of Denmark. My master thesis was on approximate inference for active learning with Bayesian neural networks. I have primarily specialized in machine learning and data science during my studies. I am especially interested in the use of Bayesian methods in machine learning. As a result of my background in Human Life Science Engineering, I also find the application of machine learning within the life sciences interesting.
--->
+
 I am a passionate and dedicated machine learning engineer with a strong background in deep learning and Bayesian methods. I have a keen interest in research and machine learning operations (MLOps). In my current role as a research assistant at DTU Compute, I am developing a solution for our external collaborator based on neural machine translation and Bayesian deep learning. My educational background includes a B.Sc.Eng. degree in Human Life Science Engineering and an M.Sc.Eng. degree in Mathematical Modelling and Computation. Throughout my academic journey, I have specialized in machine learning and have been engaged in several student positions and projects that have allowed me to apply machine learning in a variety of domains - ranging from medical applications to natural language processing and computer vision. In my master's thesis, I used Bayesian neural networks and active learning in conjunction to minimize the need for labeled data in computer vision tasks.
+-->
+I am first year PhD student at the Section for Cognitive Systems at the Department of Applied Mathematics and Computer Science at the Technical University of Denmark. My research is focused on probabilistic deep learning and development of uncertainty quantification methods for deep learning, specifically in the context of graph neural networks and molecular data science. I am primarily working with approximate Bayesian inference methods for deep learning. Prior to my enrollment as a PhD student, I obtained a M.Sc. degree in Mathematical Modelling and Computation at the Technical University of Denmark. My M.Sc. degree was mainly focused on machine learning and my thesis was on approximate Bayesian inference for active learning with Bayesian neural networks.
 
 
 ## Education
@@ -47,9 +49,13 @@ Upper secondary school, __Social science programme__, Vännäs Gymnasium, Sweden
 GPA: 18.4/20.
 
 ## Experience
-`2023 - `
+`2023 - now`
+__PhD student__, Section for Cognitive Systems, DTU Compute, Kongens Lyngby.<br>
+PhD student in probabilistic deep learning.
+
+`2023 - 2023`
 __Research assistant__, DTU Compute, Kongens Lyngby.<br>
-Project employment as a research assistant at the Section for Cognitive Systems, DTU Compute. The project is led by Assoc. Prof. Michael Riis Andersen and is concerned with Bayesian deep learning and natural language processing. The project is in collaboration with WriteReader ApS.
+Project employment as a research assistant at the Section for Cognitive Systems, DTU Compute. The project was led by Assoc. Prof. Michael Riis Andersen and was concerned with Bayesian deep learning and natural language processing. The project was in collaboration with WriteReader ApS.
 
 `2023 - 2023`
 __Machine learning engineer__, WriteReader ApS, Copenhagen.<br>
@@ -105,6 +111,10 @@ PyTorch, scikit-learn, Pyro, Weights & Biases, PySpark, AzureML.
 Microsoft Office, Latex, Maple, PyMOL, SAS.<br>Extensive experience with High-Performance Computing clusters (Computerome and DTU's central HPC cluster).
 
 ## Publications
+__Jonas Vestergaard__, Mikkel Jordahn, Michael Riis Andersen:<br>
+<a href="https://proceedings.mlr.press/v233/jensen24b.html"><ins>Neural machine translation for automated feedback on children’s early-stage writing.</ins></a>
+<br>
+Proceedings of the 5th Northern Lights Deep Learning Conference, PMLR 233:104-112, 2024. 
 
 Sara L. Garcia, Marianne Helenius, __Jonas Vestergaard__, Adrian O. Laspior,
 Thomas van Overeem Hansen, Ulrik Stoltze, Kjeld Schmiegelow, Ramneek Gupta,
@@ -119,4 +129,4 @@ Danish, English, Swedish.
 
 <!-- ### Footer
 
-Last updated: April 2022 -->
+Last updated: March 2024 -->
