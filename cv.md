@@ -36,12 +36,12 @@ I am first year PhD student at the Section for Cognitive Systems at the Departme
 ## Education
 `2021 - 2023`
 M.Sc.Eng., __Mathematical Modelling and Computation__, Technical University of Denmark.<br>
-GPA: 11.1/12.<br>
+GPA: 11.3/12.<br>
 Thesis: Approximate inference for active learning with Bayesian neural networks (Grade: 12).
 
 `2017 - 2020`
 B.Sc.Eng., __Human Life Science Engineering__, Technical University of Denmark.<br>
-GPA: 11.3/12.<br>
+GPA: 11.4/12.<br>
 Thesis: Polygenic risk scores and machine learning approaches in childhood acute lymphoblastic leukemia (Grade: 12).
 
 `2011 - 2014`
