@@ -53,7 +53,7 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 9.35pt;
+	font-size: 10pt;
 	line-height: 1.35em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Verdana,sans-serif;
@@ -71,7 +71,7 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 75%;
+	font-size: 60%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
 	color: #ccc;
@@ -79,24 +79,24 @@ code {
 
 p code {
 	position: absolute;
-	left: -12.5%;
+	left: -11%;
 }
 
 
 ul { 
 	position: relative;
-	left: 30%;
+	left: 28%;
 	width: 65%;
 	margin-bottom: 1em;
 	/*margin-top: -0.5em;*/
 }
 
 /*uncomment to get dashes in the list*/
-li:before {
+/*li:before {
 	content: "-";
 	position: relative;
 	left: -0.25em;
-}
+}*/
 
 li {
 	/*second line indent*/
@@ -176,9 +176,8 @@ a:hover {
 }
 
 em {
-	/*font-style: normal;*/
-	/*color: #2d4e5e */
-	font-style: italic;
+	font-style: normal;
+	color: #2d4e5e 
 }
 
 strong {
@@ -189,3 +188,6 @@ strong {
 	display: none;
 	visibility: hidden;
 }
+
+
+

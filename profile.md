@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Educational profile
-description: Courses I have taken during my bachelor and master studies at the Technical University of Denmark.
+description: Courses I have taken during my bachelor's and master's studies at the Technical University of Denmark.
 image: assets/images/DTU_stock_photo.jpeg
 nav-menu: true
 ---
@@ -14,12 +14,12 @@ nav-menu: true
 		    <header class="major">
 			    <h1>Educational profile</h1>
 		    </header>
-            This page provides an overview of the courses that I have taken at the Technical University of Denmark during my bachelor and master studies.<br><br>
+            This page provides an overview of the courses that I have taken at the Technical University of Denmark during my bachelor's and master's studies.<br><br>
             <!-- Content -->
             <!-- <h2 id="courses">Courses</h2> -->
             <h3 id="mmc">M.Sc. in Mathematical Modelling and Computation (DTU)</h3>
             Thesis: Approximate inference for active learning with Bayesian neural networks<br>
-            GPA: 11.1/12<br><br>
+            GPA: 11.3/12<br><br>
             <div class="row">
                 <div class="6u 12u$(small)">
                     <h4>Machine learning</h4>
@@ -142,7 +142,7 @@ nav-menu: true
             </div>
             <h3 id="tbm">B.Sc. in Human Life Science Engineering (DTU)</h3>
             Thesis: Polygenic risk scores and machine learning approaches in childhood acute lymphoblastic leukemia<br>
-            GPA: 11.3/12<br><br>
+            GPA: 11.4/12<br><br>
             <div class="row">
                 <div class="6u 12u$(small)">
                     <h4>Machine learning & statistics</h4>
