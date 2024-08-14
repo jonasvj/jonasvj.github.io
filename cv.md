@@ -14,7 +14,9 @@ PhD student in probabilistic deep learning at the Technical University of Denmar
 <a href="mailto:jovje@dtu.dk">jovje@dtu.dk</a>
 | <a href="https://www.linkedin.com/in/jonas-vestergaard-j-b8b5b3156/">LinkedIn</a>
 | <a href="https://github.com/jonasvj">GitHub</a>
+<!---
 | <a href="https://jonasvj.github.io">Personal website</a>
+-->
 </div>
 
 ## Currently
@@ -31,7 +33,7 @@ I am a recently graduated machine learning engineer from the Technical Universit
 
 I am a passionate and dedicated machine learning engineer with a strong background in deep learning and Bayesian methods. I have a keen interest in research and machine learning operations (MLOps). In my current role as a research assistant at DTU Compute, I am developing a solution for our external collaborator based on neural machine translation and Bayesian deep learning. My educational background includes a B.Sc.Eng. degree in Human Life Science Engineering and an M.Sc.Eng. degree in Mathematical Modelling and Computation. Throughout my academic journey, I have specialized in machine learning and have been engaged in several student positions and projects that have allowed me to apply machine learning in a variety of domains - ranging from medical applications to natural language processing and computer vision. In my master's thesis, I used Bayesian neural networks and active learning in conjunction to minimize the need for labeled data in computer vision tasks.
 -->
-I am a first year PhD student in the Section for Cognitive Systems at DTU Compute. My research is focused on probabilistic deep learning and development of uncertainty quantification methods for deep learning, specifically in the context of graph neural networks and molecular data science. I am primarily working with approximate Bayesian inference methods for deep learning with a current focus on variational methods. Prior to my enrollment as a PhD student, I obtained a M.Sc. degree in Mathematical Modelling and Computation at the Technical University of Denmark. My M.Sc. degree was mainly focused on machine learning and my thesis was on approximate Bayesian inference for active learning with Bayesian neural networks.
+I am a first year PhD student in the Section for Cognitive Systems at DTU Compute. My research is focused on probabilistic deep learning and development of uncertainty quantification methods for deep learning, specifically in the context of graph neural networks and molecular data science. I am primarily working with approximate Bayesian inference methods for deep learning with a current focus on ensemble methods. Prior to my enrollment as a PhD student, I obtained a M.Sc. degree in Mathematical Modelling and Computation at the Technical University of Denmark. My M.Sc. degree was mainly focused on machine learning and my thesis was on approximate Bayesian inference for active learning with Bayesian neural networks.
 
 ## Education
 `2021 - 2023`
@@ -144,8 +146,11 @@ B.Sc. thesis co-supervisor, __Scaling properties of graph neural networks for mo
 Course project supervisor, __Deep learning__, Technical University of Denmark.
 
 ## Other activities
+`July 2024`
+Attended Cambridge Ellis Unit Summer School on Probabilistic Machine Learning.
+
 `June 2024`
-Attending Nordic Probabilistic AI School.
+Attended Nordic Probabilistic AI School.
 
 `Jan. 2024`
 Attended Northern Lights Deep Learning Winter School.
