@@ -117,12 +117,18 @@ __Waiter__, Louisiana Museum of Modern Art, Humlebæk.
 -->
 
 ## Publications
-__Jonas Vestergaard__, Mikkel Jordahn, Michael Riis Andersen:<br>
+Mikkel Jordahn, __Jonas Vestergaard Jensen__, Søren Vejlgaard Holm, Michael Riis Andersen:<br>
+<ins>Calibrated Transformer Models for Supporting Children’s Writ-
+ing in Low-Resource Languages.</ins>
+<br>
+ArXiv preprint, 2024.
+
+__Jonas Vestergaard Jensen__, Mikkel Jordahn, Michael Riis Andersen:<br>
 <a href="https://proceedings.mlr.press/v233/jensen24b.html"><ins>Neural machine translation for automated feedback on children’s early-stage writing.</ins></a>
 <br>
 Proceedings of the 5th Northern Lights Deep Learning Conference, PMLR 233:104-112, 2024. __Oral presentation__.
 
-Sara L. Garcia, Marianne Helenius, __Jonas Vestergaard__, Adrian O. Laspior,
+Sara L. Garcia, Marianne Helenius, __Jonas Vestergaard Jensen__, Adrian O. Laspior,
 Thomas van Overeem Hansen, Ulrik Stoltze, Kjeld Schmiegelow, Ramneek Gupta,
 Rikke Linnemann Nielsen, Karin Wadt:<br>
 <a href="https://findit.dtu.dk/en/catalog/61a8fba3fa80cf5542ada976"><ins>Evaluation of adult cancer polygenic risk scores for stratified disease prevention in childhood cancer.</ins></a>
