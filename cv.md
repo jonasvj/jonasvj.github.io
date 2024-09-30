@@ -118,8 +118,7 @@ __Waiter__, Louisiana Museum of Modern Art, Humlebæk.
 
 ## Publications
 Mikkel Jordahn, __Jonas Vestergaard Jensen__, Søren Vejlgaard Holm, Michael Riis Andersen:<br>
-<ins>Calibrated Transformer Models for Supporting Children’s Writ-
-ing in Low-Resource Languages.</ins>
+<ins>Calibrated Transformer Models for Supporting Children’s Writing in Low-Resource Languages.</ins>
 <br>
 ArXiv preprint, 2024.
 
