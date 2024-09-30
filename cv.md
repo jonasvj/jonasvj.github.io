@@ -132,7 +132,7 @@ Thomas van Overeem Hansen, Ulrik Stoltze, Kjeld Schmiegelow, Ramneek Gupta,
 Rikke Linnemann Nielsen, Karin Wadt:<br>
 <a href="https://findit.dtu.dk/en/catalog/61a8fba3fa80cf5542ada976"><ins>Evaluation of adult cancer polygenic risk scores for stratified disease prevention in childhood cancer.</ins></a>
 <br>
-Manuscript in preparation, DTU Health Tech. 
+Manuscript in preparation, DTU Health Tech, 2021. 
 
 ## Teaching
 `2024`
