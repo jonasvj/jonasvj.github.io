@@ -14,6 +14,7 @@ PhD student in probabilistic deep learning at the Technical University of Denmar
 <a href="mailto:jovje@dtu.dk">jovje@dtu.dk</a>
 | <a href="https://www.linkedin.com/in/jonas-vestergaard-j-b8b5b3156/">LinkedIn</a>
 | <a href="https://github.com/jonasvj">GitHub</a>
+| <a href="https://scholar.google.com/citations?user=5fse208AAAAJ&hl=en">Google Scholar</a>
 <!---
 | <a href="https://jonasvj.github.io">Personal website</a>
 -->
@@ -34,7 +35,7 @@ I am a recently graduated machine learning engineer from the Technical Universit
 I am a passionate and dedicated machine learning engineer with a strong background in deep learning and Bayesian methods. I have a keen interest in research and machine learning operations (MLOps). In my current role as a research assistant at DTU Compute, I am developing a solution for our external collaborator based on neural machine translation and Bayesian deep learning. My educational background includes a B.Sc.Eng. degree in Human Life Science Engineering and an M.Sc.Eng. degree in Mathematical Modelling and Computation. Throughout my academic journey, I have specialized in machine learning and have been engaged in several student positions and projects that have allowed me to apply machine learning in a variety of domains - ranging from medical applications to natural language processing and computer vision. In my master's thesis, I used Bayesian neural networks and active learning in conjunction to minimize the need for labeled data in computer vision tasks.
 
 -->
-I am a second year PhD student in the Section for Cognitive Systems at DTU Compute. My research is focused on probabilistic deep learning and development of uncertainty quantification methods for deep learning, specifically in the context of graph neural networks and molecular data science. I am primarily working with approximate Bayesian inference methods for deep learning with a current focus on ensemble methods. Prior to my enrollment as a PhD student, I obtained a M.Sc. degree in Mathematical Modelling and Computation at the Technical University of Denmark. My M.Sc. degree was mainly focused on machine learning and my thesis was on approximate Bayesian inference for active learning with Bayesian neural networks.
+I am a third year PhD student in the Section for Cognitive Systems at DTU Compute and am expected to finish my thesis in September 2026. My research is focused on probabilistic deep learning and development of uncertainty quantification methods for deep learning, specifically in the context of graph neural networks and molecular data science. I am primarily working with approximate Bayesian inference methods for deep learning with a focus on ensemble methods. Prior to my enrollment as a PhD student, I obtained a M.Sc. degree in Mathematical Modelling and Computation at the Technical University of Denmark. My M.Sc. degree was mainly focused on machine learning and my thesis was on approximate Bayesian inference for active learning with Bayesian neural networks.
 
 ## Education
 `2021 - 2023`
@@ -46,20 +47,25 @@ Thesis: Approximate inference for active learning with Bayesian neural networks 
 B.Sc.Eng., __Human Life Science Engineering__, Technical University of Denmark.<br>
 GPA: 11.4/12.<br>
 Thesis: Polygenic risk scores and machine learning approaches in childhood acute lymphoblastic leukemia (Grade: 12).
-<!---
+
 `2011 - 2014`
 Upper secondary school, __Social science programme__, Vännäs Gymnasium, Sweden.<br>
 GPA: 18.4/20.
--->
 
-## Research experience
+
+## Experience
+
+`2025`
+__Visiting Researcher__, Machine Learning Research Group, Aalto University, Finland.<br>
+Visting researcher in Professor Arno Solin's research group for six months. During my visit, I primarily worked with Research Fellow Markus Heinonen on scalable variational inference for large transformer models.
+
 `2023 - now`
 __PhD student__, Section for Cognitive Systems, DTU Compute, Denmark.<br>
 PhD student in probabilistic deep learning. My work is primarily focused on advancing approximate Bayesian inference methods for deep learning and their applications in molecular modelling. I am advised by Assoc. Prof. Mikkel N. Schmidt.
 
 `2023`
 __Research assistant__, Section for Cognitive Systems, DTU Compute, Denmark.<br>
-Research assistant in a project concerned with neural machine translation of childrens' writing to conventional writing. The project was led by Assoc. Prof. Michael Riis Andersen and was in collaboration with WriteReader ApS.
+Research assistant in a project concerned with neural machine translation of childrens' writing to conventional writing. The project was led by Assoc. Prof. Michael Riis Andersen and was in collaboration with WriteReader ApS. My work resulted in the technical foundation for WriteReader's winning entry to <a href="https://solve.mit.edu/challenges/ai-education-assessments">MIT Solve's AI-Enabled Assessments Challenge</a>.
 <!---
 Project employment as a research assistant at the Section for Cognitive Systems, DTU Compute. The project was led by Assoc. Prof. Michael Riis Andersen and was concerned with Bayesian deep learning and natural language processing. The project was in collaboration with WriteReader ApS.
 -->
@@ -111,31 +117,41 @@ Tasks included:
     <li>Correcting weekly homework assignments and final course projects.</li>
 </ul>
 -->
-<!---
+
 `2015 – 2018`
-__Waiter__, Louisiana Museum of Modern Art, Humlebæk.
--->
+__Waiter__, Louisiana Museum of Modern Art, Humlebæk, Denmark.
+
 
 ## Publications
+Mikkel Jordahn\*, __Jonas Vestergaard Jensen\*__, James Harrison, Michael Riis Andersen, Mikkel N. Schmidt:<br>
+<a href="https://arxiv.org/pdf/2603.01750"><ins>Deep Heteroskedastic Regression: Post-Hoc Variance Estimation from Latent Representations.</ins></a>
+<br>
+ICML 2026 Workshop on Structured Probabilistic Inference & Generative Modeling, 2026. __\*Shared first authorship__.
+
+Mikkel Jordahn\*, __Jonas Vestergaard Jensen\*__, Mikkel N. Schmidt, Michael Riis Andersen:<br>
+<a href="https://proceedings.mlr.press/v258/jordahn25a.html"><ins>On Local Posterior Structure in Deep Ensembles.</ins></a>
+<br>
+Proceedings of the 28th International Conference on Artificial Intelligence and Statistics, PMLR 258:5032-5040, 2025. __\*Shared first authorship__.
+<!---
 Mikkel Jordahn, __Jonas Vestergaard Jensen__, Søren Vejlgaard Holm, Michael Riis Andersen:<br>
 <ins>Calibrated Transformer Models for Supporting Children’s Writing in Low-Resource Languages.</ins>
 <br>
 ArXiv preprint, 2024.
-
+-->
 __Jonas Vestergaard Jensen__, Mikkel Jordahn, Michael Riis Andersen:<br>
 <a href="https://proceedings.mlr.press/v233/jensen24b.html"><ins>Neural machine translation for automated feedback on children’s early-stage writing.</ins></a>
 <br>
 Proceedings of the 5th Northern Lights Deep Learning Conference, PMLR 233:104-112, 2024. __Oral presentation__.
-
+<!---
 Sara L. Garcia, Marianne Helenius, __Jonas Vestergaard Jensen__, Adrian O. Laspior,
 Thomas van Overeem Hansen, Ulrik Stoltze, Kjeld Schmiegelow, Ramneek Gupta,
 Rikke Linnemann Nielsen, Karin Wadt:<br>
 <a href="https://findit.dtu.dk/en/catalog/61a8fba3fa80cf5542ada976"><ins>Evaluation of adult cancer polygenic risk scores for stratified disease prevention in childhood cancer.</ins></a>
 <br>
 Manuscript in preparation, DTU Health Tech, 2021. 
-
+-->
 ## Teaching
-`2024`
+`2024 - 2025`
 Teaching assistant, __Deep learning__, Technical University of Denmark.
 
 `2024`
@@ -151,18 +167,18 @@ Teaching assistant, __Calculus and algebra 1__, Technical University of Denmark.
 `2024`
 B.Sc. thesis co-supervisor, __Scaling properties of graph neural networks for molecular modelling__, Technical University of Denmark.
 
-`2023`
+`2023 - 2025`
 Course project supervisor, __Deep learning__, Technical University of Denmark.
 
 ## Other activities
 `July 2024`
-Attended Cambridge Ellis Unit Summer School on Probabilistic Machine Learning.
+Cambridge Ellis Unit Summer School on Probabilistic Machine Learning.
 
 `June 2024`
-Attended Nordic Probabilistic AI School.
+Nordic Probabilistic AI School.
 
 `Jan. 2024`
-Attended Northern Lights Deep Learning Winter School.
+Northern Lights Deep Learning Winter School.
 
 ## Computer skills
 
@@ -170,10 +186,10 @@ Attended Northern Lights Deep Learning Winter School.
 Python, R, MatLab, bash.
 
 ### Machine learning
-PyTorch, Pyro, scikit-learn, Weights & Biases, PySpark, AzureML.
+PyTorch, Pyro, JAX, scikit-learn, Weights & Biases, PySpark, AzureML.
 
 ### Miscellaneous
-Microsoft Office, Latex, Maple, PyMOL, SAS.<br>Extensive experience with High-Performance Computing clusters (Computerome and DTU's central HPC cluster).
+Latex, slurm, Maple, PyMOL, SAS, Microsoft Office.<br>Extensive experience with High-Performance Computing clusters (LUMI, DTU Compute's local GPU cluster, DTU's central HPC cluster, Computerome).
 
 ## Languages 
 
